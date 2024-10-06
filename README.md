@@ -57,7 +57,7 @@ This project is a Spring Boot application designed to manage quizzes, allowing u
 After setting up the database and running the application, you can test the endpoints using Postman.
 
 1. Import the Postman collection from the following link:
-   [Postman Collection]()
+   [Postman Collection](https://api.postman.com/collections/32429637-4ed1dab3-ba1d-40b0-945c-0b280bbfdf0a?access_key=PMAT-01J9G58NX6TGEFMHKPFHQK4HX7)
 2. You can use the collection to test various endpoints such as:
    - Submit Quiz Answers
    - Retrieve Quiz Questions
